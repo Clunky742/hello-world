@@ -23,4 +23,4 @@ More of the projects content can be seen below.
 * Some text that is _italicized_.
 * A block of code.
 
-Click through the pages to see what else the project has to offer. (Home [1](Page1) [2](Page2) [3](Page3) [4](Page4)) 
+Click through the pages to see what else the project has to offer. ([Home](README) [1](Page1) [2](Page2) [3](Page3) [4](Page4))
