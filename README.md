@@ -10,7 +10,7 @@ This project may or may not be viewable to some views due to _perfection_. View 
 
 This is my [home page!](https://en.wikipedia.org/wiki/Home_page) (<--- click here if you don't know what that means).
 
-More of the site's content can be seen below.
+More of the projects content can be seen below.
 
 * Paragraphs.
 * Headers.
@@ -22,3 +22,5 @@ More of the site's content can be seen below.
 * Some text that is **bolded**.
 * Some text that is _italicized_.
 * A block of code.
+
+Click through the pages to see what else the project has to offer. Home 1 2 3 4 
