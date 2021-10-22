@@ -10,4 +10,4 @@ Welcome to the Fourth and/or Final Page! Did you enjoy your visit? I know this i
 
 _Without them none of this would have been possible_
 
-Click through the pages to see what else the project has to offer. (Home [1](Page1) [2](Page2) [3](Page3) [4](Page4)) 
+Click through the pages to see what else the project has to offer. ([Home](README) [1](Page1) [2](Page2) [3](Page3) [4](Page4)) 
